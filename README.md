@@ -13,7 +13,7 @@ A full-stack Learning Management System with three user roles, a gamification en
 
 [![LearnHub Live](https://img.shields.io/badge/Live%20App-thelearnhub.netlify.app-4CAF50?style=for-the-badge&logo=netlify&logoColor=white)](https://thelearnhub.netlify.app)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-learning--management--system-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BluUsername/learning-management-system)
-[![API Docs](https://img.shields.io/badge/API%20Docs-Swagger%20%2F%20ReDoc-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://lms-backend-tom-25f123572e9b.herokuapp.com/api/)
+[![API Docs](https://img.shields.io/badge/API%20Docs-Swagger%20%2F%20ReDoc-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://lms-backend-tom-25f123572e9b.herokuapp.com/api/docs/)
 
 - 154 passing tests (52 backend · 102 frontend) across 23 test modules
 - Role-based access control enforced on both frontend and backend
