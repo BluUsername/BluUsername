@@ -68,6 +68,20 @@ A full-stack Learning Management System with three user roles, a gamification en
 
 ---
 
+## ⚔️ Kata Training
+
+Sharpening problem-solving fundamentals through daily practice on Codewars.
+
+[![Kata Repo](https://img.shields.io/badge/GitHub-codewars--katas-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BluUsername/codewars-katas)
+
+| Kata | Difficulty | Language |
+|------|------------|----------|
+| [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe) | 8kyu | JavaScript |
+| [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3) | 7kyu | JavaScript |
+| [Narcissistic Number](https://www.codewars.com/kata/5287e858c6b5a9678200083c) | 6kyu | JavaScript |
+
+---
+
 ## 📫 Get in Touch
 
 [![Email](https://img.shields.io/badge/Email-iamtomherman@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:iamtomherman@gmail.com)
