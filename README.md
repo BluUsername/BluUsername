@@ -72,7 +72,7 @@ A full-stack Learning Management System with three user roles, a gamification en
 
 Sharpening problem-solving fundamentals through daily practice on Codewars.
 
-[![Codewars](https://www.codewars.com/users/BluUsername/badges/large)](https://www.codewars.com/users/BluUsername)
+[![Codewars](https://www.codewars.com/users/BluUsername/badges/small)](https://www.codewars.com/users/BluUsername)
 
 [![Kata Repo](https://img.shields.io/badge/GitHub-codewars--katas-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BluUsername/codewars-katas)
 
