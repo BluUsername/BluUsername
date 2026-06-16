@@ -1,7 +1,7 @@
 # Hi, I'm Tom 👋
 
 Full-stack developer building real things with React, Django, and PostgreSQL.
-Career changer — previously in emergency services and healthcare — now writing production code with tests, CI/CD, and actual deployment.
+Career changer - previously in emergency services and healthcare - now writing production code with tests, CI/CD, and actual deployment.
 
 Currently studying full-stack development at The Learning People. Open to junior developer roles in **Oxford · Bristol · Brighton · Glasgow**.
 
